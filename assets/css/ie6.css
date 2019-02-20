@@ -1,0 +1,18 @@
+body {
+    background-color: red;
+    text-align: center;
+}
+
+#MainContainer {
+    width: 1140px;
+
+}
+
+#header {
+    display: none;
+}
+
+.head-box {
+    width: 100%;
+    margin: 0;
+}

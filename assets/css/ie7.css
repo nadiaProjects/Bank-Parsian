@@ -1,0 +1,254 @@
+body {
+    font-family: 'IRANSans3' !important;
+    font-size: 14px !important;
+    background-color: #fff !important;
+    /*    background: url('../images/ptr.png');*/
+    background-repeat: repeat !important;
+    padding-bottom: 15px !important;
+    text-align: left !important;
+    direction: ltr !important;
+}
+
+#MainContainer {
+    width: 1030px !important;
+
+}
+
+#header {
+    display: block !important;
+}
+
+#bank-logo {
+
+    width: 200px !important;
+    float: right !important;
+}
+
+#shaparak-logo {
+
+    width: 200px !important;
+    float: left !important;
+    margin-top: 0px !important;
+}
+
+#page-title {
+    display: inline-block !important;
+    *display: inline !important;
+    zoom: 1 !important;
+    width: 560px !important;
+    float: right !important;
+}
+
+.main-title {
+    font-size: 20px !important;
+}
+
+.bgWhite {
+    background-color: #f4f4f4;
+}
+
+#right-col {
+    width: 572px !important;
+    display: inline !important;
+    /*    float: right !important;*/
+}
+
+#txtExpM {
+    height: auto !important;
+    width: 91px;
+	padding-bottom:5px;
+	text-align:center;
+}
+
+.txtYear {
+    width: 91px;
+}
+
+#left-col {
+    width: 384px !important;
+    display: inline !important;
+    float: left !important;
+    color: #323232;
+}
+
+#save-cart-info {
+    display: block !important;
+    width: 500px !important;
+
+}
+
+#CountDownSection {
+    display: block;
+    /*    width: auto !important;*/
+    float: right;
+    background-color: #213e76;
+    right: auto !important;
+    margin: auto 30px;
+    height: 20px;
+    overflow: hidden;
+}
+
+.control-label {
+    float: right !important;
+    width: 13% !important;
+    padding-top: 10px !important;
+    position: absolute;
+}
+
+.txtInput {
+    width: 370px !important;
+    margin-bottom: 15px !important;
+    height: 20px !important;
+    direction: ltr !important;
+    text-align: left !important;
+}
+
+.txtCaptcha {
+	width:270px !important;
+	/*margin-left:111px;*/
+	height:33px;
+	padding-left:10px;
+}
+
+.txtEmail {
+	width: 380px !important;
+}
+
+.timeTo UL LI {}
+
+.timeTo div,
+.timeTo span {
+    float: left !important;
+    display: inline-block !important;
+
+}
+
+.timeTo div {
+    margin-bottom: 10px !important;
+}
+
+.timeTo {
+    height: auto !important;
+    width: 100% !important;
+    text-align: center !important;
+}
+
+.checkbox {
+    float: right !important;
+    display: block !important;
+}
+
+.PIPG {
+    text-align: center !important;
+}
+
+#countdown {
+    width: 100% !important;
+}
+
+label,
+p,
+input,
+table,
+h2 {
+    direction: rtl !important;
+    text-align: right !important;
+}
+
+input {
+	font-family:IranSans3;
+}
+
+.keypad-trigger {
+    left: 30px !important;
+}
+
+#divPaymentInfo {
+    height: auto !important;
+    width: 100% !important;
+}
+
+#divPaymentInfo div {
+    float: right !important;
+    display: inline-block !important;
+    text-align: center !important;
+    width: 100% !important;
+    direction: rtl;
+    text-align: right;
+}
+
+#divHelp {
+    width: 992px !important;
+    display: block !important;
+}
+
+.lstInfo {
+    direction: rtl !important;
+    text-align: right !important;
+    color: #323232;
+}
+
+.txtMounth,
+.txtYear {
+    width: 155px !important;
+    padding: 5px !important;
+    height: auto !important;
+    text-align: center !important;
+    margin-bottom: 10px !important;
+}
+
+.count-down-box {
+    text-align: center !important;
+    display: inline-block !important;
+    float: left !important;
+}
+
+.btPay {
+    float: right !important;
+    font-family: inherit !important;
+}
+
+.lblCountDown {
+    text-align: center !important;
+    display: inline-block !important;
+    width: 100% !important;
+    float: right !important;
+
+}
+
+.count-down-box {
+    margin-bottom: 20px !important;
+}
+
+.btnPay {
+    font-weight: bold !important;
+}
+
+.count-down-box {
+    margin: auto !important;
+    float: right !important;
+    text-align: center !important;
+    margin-right: 108px !important;
+    margin-bottom: 10px !important;
+}
+
+
+#divLeftBoxInfo {
+    margin-top: 37px;
+}
+
+.col-md-offset-2 {
+    margin-left: 10.66%;
+}
+.col-md-push-7{
+    left: 26.33%;
+}
+.btPay{margin-right: 139px;}
+
+#divExpireDate {
+	margin-right:65px !important;
+}
+
+.col-sm-12-UserAllowed-ie7 {
+	width:75% !important;
+}

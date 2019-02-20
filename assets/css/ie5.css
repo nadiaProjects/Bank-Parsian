@@ -1,0 +1,262 @@
+* {
+	font-family: "IranSans3", "tahoma";
+}
+
+body {
+	background-color: #fff;
+	text-align: center;
+}
+
+body {
+	direction: ltr;
+}
+
+#MainContainer {
+	width: 960px;
+}
+
+#header {
+	display: block;
+}
+
+#bank-logo {
+	display: inline;
+	width: 200px;
+	float: right;
+}
+
+#shaparak-logo {
+	display: inline;
+	width: 200px;
+	float: left;
+}
+
+#page-title {
+	display: inline;
+	width: 560px;
+	float: right;
+}
+
+.main-title {
+	font-size: 20px;
+}
+
+#right-col {
+	width: 645px;
+	display: inline;
+	float: right;
+	margin-right: 5px;
+}
+
+#left-col {
+	width: 290px;
+	display: inline;
+	margin-top: -100px;
+	position: relative;
+	top: 100px;
+	float: left;
+	left: 12px;
+}
+
+#save-cart-info {
+	display: block;
+	width: 500px;
+}
+
+.txtInput {
+	direction: ltr;
+	margin-bottom: 10px;
+	width: 400px;
+}
+
+	.txtInput:focus {
+		outline: 0;
+	}
+
+.control-label {
+	padding-top: 7px;
+}
+
+.head-title {
+	font-size: 14px;
+	background-color: #213e76;
+	padding: 15px 15px;
+	color: #ffffff;
+	font-size: 16px;
+	font-weight: bold;
+	margin-top: 15px;
+	/*
+    width: 646px;
+    margin-right: -16px;
+    float: right;
+*/
+}
+
+.txtDate {
+	width: 140px;
+	direction: ltr;
+	text-align: center;
+	margin-bottom: 10px;
+}
+
+
+table {
+	font-size: 10px;
+}
+
+#divLeftBoxInfo {
+	width: 259px;
+	float: left;
+}
+
+.count-down-section {
+	min-height: 50px;
+	background-color: #213e76;
+	margin-top: 15px;
+}
+
+.lblCountDown {
+	color: #fff;
+	text-align: center;
+	width: 100%;
+	border-bottom: 1px solid #fff;
+}
+
+.count-down-box {
+	background-color: #213e76;
+	min-height: 50px;
+	margin: 5px;
+	text-align: center;
+	color: #fff !important;
+	width: 150px;
+	max-height: 100px;
+	min-height: 100px;
+}
+
+.user-info h2 {
+	font-size: 15px;
+	text-align: center;
+	font-weight: bold;
+	margin-bottom: 10px;
+}
+
+table {
+	border-collapse: collapse;
+	/*
+    border-right: 1px solid #323232;
+    border-left: 1px solid #323232;
+*/
+}
+
+	table td,
+	table th {
+		border-top: 1px solid #c1c1c1;
+		padding: 5px;
+		/*    border-bottom: 1px solid #323232;*/ font-size: 12px;
+	}
+
+.btnPay {
+	margin-left: 15px;
+}
+
+#divPaymentInfo {
+	height: 50px;
+}
+
+#divPaymentVal {
+	width: 100%;
+	display: block;
+	padding-top: 5px;
+}
+
+#divPaymentCount {
+	width: 100%;
+	display: block;
+	padding-bottom: 5px;
+	text-align: center;
+}
+
+/*
+.form-keyboard {
+    position: relative;
+}
+
+.keyboard-icon {
+    position: relative;
+    z-index: 99;
+    left: 22px;
+    top: 10px;
+
+    display: block;
+}
+*/
+
+.timeTo div {
+	display: inline;
+}
+
+#divHelp {
+	width: 930px;
+	display: block;
+	text-align: right;
+}
+
+#divHelpTitle {
+	width: 950px;
+	display: block;
+	float: right;
+}
+
+.pos-rel {
+	position: relative;
+}
+
+.form-keyboard {
+	position: static;
+	display: block;
+}
+
+label,
+p,
+input,
+table,
+h2 {
+	direction: rtl;
+	text-align: right;
+}
+
+.keypad-trigger {
+	left: 36px;
+}
+
+.lstInfo {
+	direction: rtl;
+	text-align: right;
+}
+
+	.lstInfo li {
+		list-style-type: none;
+	}
+
+#divHelpTitle {
+	width: 960px;
+	text-align: center;
+}
+
+.transaction-help {
+	width: 960px;
+	margin-top: 15px;
+}
+
+#HeadTitleBottom {
+	width: 960px;
+	margin-left: 15px;
+}
+
+.main-title {
+	font-weight: normal;
+}
+
+label {
+	font-weight: normal;
+}

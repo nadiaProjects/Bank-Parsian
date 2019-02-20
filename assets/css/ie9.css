@@ -1,0 +1,39 @@
+body {
+    /*text-align: center;*/
+}
+
+#header {
+    display: block;
+    height: 100px;
+}
+
+#bank-logo {
+
+    width: 200px;
+    float: right;
+}
+
+#shaparak-logo {
+
+    width: 200px;
+    float: left;
+}
+
+#page-title {
+    display: inline-block;
+    *display: inline;
+    zoom: 1;
+    width: 560px;
+    float: right;
+}
+
+.main-title {
+    font-size: 20px;
+    text-align: center;
+    display: block;
+    width: 100%;
+}
+
+.timeTo {
+	line-height:110%;
+}

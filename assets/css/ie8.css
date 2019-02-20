@@ -1,0 +1,65 @@
+body {
+    background-color: #fff;
+}
+
+#MainContainer {
+    width: 960px;
+
+}
+
+#header {
+    display: block;
+    height: 100px;
+}
+
+#bank-logo {
+
+    width: 200px;
+    float: right;
+}
+
+#shaparak-logo {
+
+    width: 200px;
+    float: left;
+    margin-top: -50px;
+}
+
+#page-title {
+    display: inline-block;
+    *display: inline;
+    zoom: 1;
+    width: 560px;
+    float: right;
+}
+
+.main-title {
+    font-size: 20px;
+}
+
+#right-col {
+    display: inline-block;
+}
+
+#left-col {
+    display: inline-block;
+    float: left;
+    width: 310px;
+}
+
+#TimeLeftSection {
+    display: inline-block;
+}
+
+#CountDownSection {
+    display: inline-block;
+    padding-left: 30px;
+    float: left;
+}
+
+#divPaymentCount {
+    text-align: center;
+}
+.shaparak-logo{
+    margin-top: 50px;
+}
